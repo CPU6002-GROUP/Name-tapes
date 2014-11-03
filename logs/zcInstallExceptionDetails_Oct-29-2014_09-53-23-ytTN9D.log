@@ -1,0 +1,24 @@
+---------------
+Oct 29 2014 9:53 -- inspect
+CURL requires SSL support. Please notify webmaster or hosting company. 28 => SSL connection timeout
+
+---------------
+Oct 29 2014 9:53 -- inspect
+CURL requires SSL support. Please notify webmaster or hosting company. 60 => SSL certificate problem: unable to get local issuer certificate
+
+---------------
+Oct 29 2014 9:54 -- inspect
+CURL requires SSL support. Please notify webmaster or hosting company. 60 => SSL certificate problem: unable to get local issuer certificate
+
+---------------
+Oct 29 2014 9:56 -- store_setup
+FATAL: Store email address is empty
+
+---------------
+Oct 29 2014 9:56 -- store_setup
+FATAL: Store email address is not valid
+
+---------------
+Oct 29 2014 9:56 -- store_setup
+FATAL: Store Zone must be specified.
+

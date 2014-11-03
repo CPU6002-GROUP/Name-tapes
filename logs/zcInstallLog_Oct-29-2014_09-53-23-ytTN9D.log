@@ -1,0 +1,139 @@
+---------------
+Oct 29 2014 9:53 -- inspect
+CURL requires SSL support. Please notify webmaster or hosting company. 28 => SSL connection timeout
+
+---------------
+Oct 29 2014 9:53 -- inspect
+System Inspection Results: 
+------------------------------
+NA: Webserver => Apache/2.4.4 (Win64) PHP/5.4.12
+NA: HTTP Host => localhost:90
+NA: Path_Translated => C:/wamp/www/name-tapes/zc_install/index.php(SCRIPT_FILENAME)
+NA: Real Path => C:\wamp\www\name-tapes
+NA: PHP O/S => WINNT
+NA: PHP API Mode => apache2handler
+NA: PHP Max Execution Time per page => 0
+OK: MySQL Support => ON
+OK: PHP Version => 5.4.12
+OK: PHP Sessions Support => ON
+OK: PHP Session.AutoStart => OFF
+OK: PHP session.use_trans_sid => OFF
+OK: Suggested SQL Cache Folder => C:/wamp/www/name-tapes/cache
+OK: PHP GD Support => ON
+OK: GD Version => GD bundled (2.0.34 compatible)
+OK: PHP ZLIB Compression Support => ON
+OK: PHP OpenSSL Support => ON
+OK: PHP cURL Support => ON
+OK: CURL NON-SSL Capability => Okay
+WARN: CURL SSL Capability => CURL requires SSL support. Please notify webmaster or hosting company. 28 => SSL connection timeout
+OK: PHP Upload Support => ON  upload_max_filesize=10M;  post_max_size=8M
+OK: PHP Upload TMP dir => c:/wamp/tmp
+OK: Apache .htaccess Support => ON
+NA: PHP include_path => .;C:\php\pear
+NA: PHP SMTP destination => localhost
+NA: PHP sendmail path => 
+NA: PHP sendmail 'from' => you@yourdomain
+OK: PHP open_basedir restrictions => 
+WARN: PHP Output Buffering (gzip) => OFF
+OK: PHP XML Support => ON
+OK: PHP Session.Save_Path => C:\wamp\www\name-tapes\cache-->Writeable
+OK: includes/configure.php =>  Writeable
+OK: admin/includes/configure.php =>  Writeable
+OK: cache => OK 777 read/write/execute
+OK: images => OK 777 read/write/execute (INCLUDE SUBDIRECTORIES TOO)
+OK: includes/languages/english/html_includes => OK 777 read/write (INCLUDE SUBDIRECTORIES TOO)
+OK: logs => OK 777 read/write/execute
+OK: media => OK 777 read/write/execute
+OK: pub => OK 777 read/write/execute
+OK: admin/backups => OK 777 read/write
+OK: admin/images/graphs => OK 777 read/write/execute
+PHP Extensions compiled: Core, bcmath, calendar, com_dotnet, ctype, date, ereg, filter, ftp, hash, iconv, json, mcrypt, SPL, odbc, pcre, Reflection, session, standard, mysqlnd, tokenizer, zip, zlib, libxml, dom, PDO, openssl, SimpleXML, wddx, xml, xmlreader, xmlwriter, apache2handler, curl, gd, mbstring, mysql, mysqli, Phar, pdo_mysql, pdo_sqlite, soap, mhash, xdebug
+------------------------------
+
+
+---------------
+Oct 29 2014 9:53 -- inspect
+CURL requires SSL support. Please notify webmaster or hosting company. 60 => SSL certificate problem: unable to get local issuer certificate
+
+---------------
+Oct 29 2014 9:53 -- inspect
+System Inspection Results: 
+------------------------------
+NA: Webserver => Apache/2.4.4 (Win64) PHP/5.4.12
+NA: HTTP Host => localhost:90
+NA: Path_Translated => C:/wamp/www/name-tapes/zc_install/index.php(SCRIPT_FILENAME)
+NA: Real Path => C:\wamp\www\name-tapes
+NA: PHP O/S => WINNT
+NA: PHP API Mode => apache2handler
+NA: PHP Max Execution Time per page => 0
+OK: MySQL Support => ON
+OK: PHP Version => 5.4.12
+OK: PHP Sessions Support => ON
+OK: PHP Session.AutoStart => OFF
+OK: PHP session.use_trans_sid => OFF
+OK: Suggested SQL Cache Folder => C:/wamp/www/name-tapes/cache
+OK: PHP GD Support => ON
+OK: GD Version => GD bundled (2.0.34 compatible)
+OK: PHP ZLIB Compression Support => ON
+OK: PHP OpenSSL Support => ON
+OK: PHP cURL Support => ON
+OK: CURL NON-SSL Capability => Okay
+WARN: CURL SSL Capability => CURL requires SSL support. Please notify webmaster or hosting company. 60 => SSL certificate problem: unable to get local issuer certificate
+OK: PHP Upload Support => ON  upload_max_filesize=10M;  post_max_size=8M
+OK: PHP Upload TMP dir => c:/wamp/tmp
+OK: Apache .htaccess Support => ON
+NA: PHP include_path => .;C:\php\pear
+NA: PHP SMTP destination => localhost
+NA: PHP sendmail path => 
+NA: PHP sendmail 'from' => you@yourdomain
+OK: PHP open_basedir restrictions => 
+WARN: PHP Output Buffering (gzip) => OFF
+OK: PHP XML Support => ON
+OK: PHP Session.Save_Path => C:\wamp\www\name-tapes\cache-->Writeable
+OK: includes/configure.php =>  Writeable
+OK: admin/includes/configure.php =>  Writeable
+OK: cache => OK 777 read/write/execute
+OK: images => OK 777 read/write/execute (INCLUDE SUBDIRECTORIES TOO)
+OK: includes/languages/english/html_includes => OK 777 read/write (INCLUDE SUBDIRECTORIES TOO)
+OK: logs => OK 777 read/write/execute
+OK: media => OK 777 read/write/execute
+OK: pub => OK 777 read/write/execute
+OK: admin/backups => OK 777 read/write
+OK: admin/images/graphs => OK 777 read/write/execute
+PHP Extensions compiled: Core, bcmath, calendar, com_dotnet, ctype, date, ereg, filter, ftp, hash, iconv, json, mcrypt, SPL, odbc, pcre, Reflection, session, standard, mysqlnd, tokenizer, zip, zlib, libxml, dom, PDO, openssl, SimpleXML, wddx, xml, xmlreader, xmlwriter, apache2handler, curl, gd, mbstring, mysql, mysqli, Phar, pdo_mysql, pdo_sqlite, soap, mhash, xdebug
+------------------------------
+
+
+---------------
+Oct 29 2014 9:54 -- inspect
+CURL requires SSL support. Please notify webmaster or hosting company. 60 => SSL certificate problem: unable to get local issuer certificate
+
+---------------
+Oct 29 2014 9:54 -- database_setup1
+Installer - Page: database_setup -- collected information: Array
+(
+    [language] => english
+    [DIR_FS_SQL_CACHE] => C:/wamp/www/name-tapes/cache
+    [DB_TYPE] => mysql
+    [DB_PREFIX] => 
+    [DB_CHARSET] => utf8
+    [DB_SERVER] => localhost
+    [DB_SERVER_USERNAME] => root
+    [DB_SERVER_PASSWORD] => ***private***
+    [DB_DATABASE] => nametapes_db
+    [SQL_CACHE_METHOD] => none
+)
+
+
+---------------
+Oct 29 2014 9:56 -- store_setup
+FATAL: Store email address is empty
+
+---------------
+Oct 29 2014 9:56 -- store_setup
+FATAL: Store email address is not valid
+
+---------------
+Oct 29 2014 9:56 -- store_setup
+FATAL: Store Zone must be specified.
+
